@@ -1,0 +1,90 @@
+From : Dhaka
+To : Chittagong
+Booking Date: 2022-12-25
+Arrival : 2022-12-25
+Seat No : 4
+Type : AC
+Coach: Shyamoli
+Time : 10:45 AM
+Total Cost : 4800
+=========================================
+From : Sylhet
+To : Dhaka
+Booking Date: 2022-12-25
+Arrival : 2022-12-28
+Seat No : 2
+Type : AC
+Coach: Shyamoli
+Time : 10:00 AM
+Total Cost : 2200
+=========================================
+From : Dhaka
+To : Chittagong
+Booking Date: 2022-12-25
+Arrival : 12-12-2022
+Seat No : 2
+Type : AC
+Coach: Shohagh
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Dhaka
+To : Chittagong
+Booking Date: 2022-12-25
+Arrival : 12-12-2022
+Seat No : 2
+Type : AC
+Coach: Ena
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Chittagong
+To : Dhaka
+Booking Date: 2022-12-25
+Arrival : 20-12-2022
+Seat No : 2
+Type : AC
+Coach: Shohagh
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Dhaka
+To : Chittagong
+Booking Date: 2022-12-25
+Arrival : 22
+Seat No : 2
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Chittagong
+To : Dhaka
+Booking Date: 2022-12-26
+Arrival : 22
+Seat No : 2
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Dhaka
+To : Chittagong
+Booking Date: 2022-12-26
+Arrival : 11
+Seat No : 2
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Pabna
+To : Dhaka
+Booking Date: 2022-12-26
+Arrival : 202
+Seat No : 7
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 8400
+=========================================

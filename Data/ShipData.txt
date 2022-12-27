@@ -1,0 +1,54 @@
+From : Chandpur
+To : Dhaka
+Booking Date: 2022-12-23
+Arrival : 2022-12-28
+Seat No : 3
+Type : Non AC Cabin
+Time : 7:00 PM
+Total Cost : 2100
+=========================================
+From : Chandpur
+To : Dhaka
+Booking Date: 2022-12-23
+Arrival : 2022-12-28
+Seat No : 3
+Type : AC Cabin
+Time : 7:00 PM
+Total Cost : 3000
+=========================================
+From : Chandpur
+To : Dhaka
+Booking Date: 2022-12-23
+Arrival : asad
+Seat No : 1
+Type : Non AC Cabin
+Time : 9:00 AM
+Total Cost : 700
+=========================================
+From : Chandpur
+To : Dhaka
+Booking Date: 2022-12-26
+Arrival : 2
+Seat No : 2
+Type : AC Cabin
+Time : 9:00 AM
+Total Cost : 2000
+=========================================
+From : Chandpur
+To : Dhaka
+Booking Date: 2022-12-26
+Arrival : 2
+Seat No : 2
+Type : Non AC Cabin
+Time : 12:00 PM
+Total Cost : 1400
+=========================================
+From : Chandpur
+To : Dhaka
+Booking Date: 2022-12-26
+Arrival : 2
+Seat No : 2
+Type : Non AC Cabin
+Time : 12:00 PM
+Total Cost : 1400
+=========================================

@@ -1,0 +1,70 @@
+From : Chittagong
+To : Dhaka
+Booking Date: 2022-12-23
+Arrival : 2022-08-27
+Seat No : 2
+Type : Economy
+Airlines : US-Bangla
+Time : 10:00 AM
+Total Cost : 7600
+=========================================
+From : Dhaka
+To : Chittagong
+Booking Date: 2022-12-25
+Arrival : 20-12-2022
+Seat No : 5
+Type : Business
+Airlines : US-Bangla
+Time : 9:00 AM
+Total Cost : 20000
+=========================================
+From : Dhaka
+To : Chittagong
+Booking Date: 2022-12-26
+Arrival : 22
+Seat No : 2
+Type : Business
+Airlines : Biman Bangladesh
+Time : 9:00 AM
+Total Cost : 8000
+=========================================
+From : Dhaka
+To : Chittagong
+Booking Date: 2022-12-26
+Arrival : 22
+Seat No : 2
+Type : Business
+Airlines : Biman Bangladesh
+Time : 9:00 AM
+Total Cost : 8000
+=========================================
+From : Dhaka
+To : Chittagong
+Booking Date: 2022-12-26
+Arrival : ww
+Seat No : 2
+Type : Business
+Airlines : Biman Bangladesh
+Time : 9:00 AM
+Total Cost : 8000
+=========================================
+From : Dhaka
+To : Chittagong
+Booking Date: 2022-12-26
+Arrival : 11
+Seat No : 2
+Type : Business
+Airlines : Biman Bangladesh
+Time : 9:00 AM
+Total Cost : 8000
+=========================================
+From : Dhaka
+To : Sylhet
+Booking Date: 2022-12-26
+Arrival : 1234
+Seat No : 7
+Type : Business
+Airlines : Biman Bangladesh
+Time : 9:00 AM
+Total Cost : 33600
+=========================================

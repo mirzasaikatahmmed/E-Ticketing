@@ -1,0 +1,36 @@
+================Self Registration=============
+First Name: Mirza Saikat
+Last Name: Ahmmed
+User Name: user
+Password: user
+Phone Number: 1234567890
+Email: mirzasaikatahmmed@gmail.com
+=========================================
+First Name: ss
+Last Name: ss
+User Name: ss
+Password: ss
+Phone Number: ss
+Email: ss
+=========================================
+First Name: Mehedi Hasan
+Last Name: Pranto
+User Name: mehedi
+Password: mehedi
+Phone Number: 1234
+Email: 1234
+=========================================
+First Name: demo
+Last Name: demo
+User Name: demo
+Password: demo
+Phone Number: demo
+Email: demo
+=========================================
+First Name: test
+Last Name: test
+User Name: test
+Password: test
+Phone Number: test
+Email: test
+=========================================
