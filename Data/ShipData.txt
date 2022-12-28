@@ -61,3 +61,12 @@ Type : AC Cabin
 Time : 9:00 AM
 Total Cost : 800
 =========================================
+From : Bagerhaat
+To : Dhaka
+Booking Date: 2022-12-28
+Arrival : 30-12-2022
+Seat No : 4
+Type : AC Cabin
+Time : 9:00 AM
+Total Cost : 3600
+=========================================

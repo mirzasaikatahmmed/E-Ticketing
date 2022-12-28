@@ -138,3 +138,13 @@ Coach: 0
 Time : 9:00 AM
 Total Cost : 1100
 =========================================
+From : Dhaka
+To : Sylhet
+Booking Date: 2022-12-28
+Arrival : 2022-12-30
+Seat No : 2
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 2200
+=========================================
