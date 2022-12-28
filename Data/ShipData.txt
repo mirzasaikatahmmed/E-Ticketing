@@ -52,3 +52,12 @@ Type : Non AC Cabin
 Time : 12:00 PM
 Total Cost : 1400
 =========================================
+From : Chandpur
+To : Bagerhaat
+Booking Date: 2022-12-28
+Arrival : 2022-12-30
+Seat No : 1
+Type : AC Cabin
+Time : 9:00 AM
+Total Cost : 800
+=========================================

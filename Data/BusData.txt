@@ -98,3 +98,43 @@ Coach: 4
 Time : 10:00 AM
 Total Cost : 2400
 =========================================
+From : Pabna
+To : Dhaka
+Booking Date: 2022-12-28
+Arrival : 30-12-2022
+Seat No : 3
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 3600
+=========================================
+From : Pabna
+To : Dhaka
+Booking Date: 2022-12-28
+Arrival : 30-12-2022
+Seat No : 1
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 1200
+=========================================
+From : Dhaka
+To : Sylhet
+Booking Date: 2022-12-28
+Arrival : 2022-12-30
+Seat No : 3
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 3300
+=========================================
+From : Sylhet
+To : Dhaka
+Booking Date: 2022-12-28
+Arrival : 2022-12-30
+Seat No : 1
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 1100
+=========================================
