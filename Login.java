@@ -84,7 +84,7 @@ public class Login extends JFrame implements ActionListener {
 
 		Loginframe.setLayout(null);
 
-		Loginframe.setTitle("Ticket Management System");
+		Loginframe.setTitle("E-Ticketing");
 		Loginframe.setSize(815, 530);
 
 		loginB.addActionListener(this);

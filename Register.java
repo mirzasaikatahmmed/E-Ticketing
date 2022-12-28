@@ -106,7 +106,7 @@ public class Register implements ActionListener {
 		registerframe.add(signupr);
 		registerframe.add(registerPageImg);
 
-		registerframe.setTitle("Ticket Management System");
+		registerframe.setTitle("E-Ticketing");
 		registerframe.setSize(815, 530);
 
 		registerframe.setLocationRelativeTo(null);

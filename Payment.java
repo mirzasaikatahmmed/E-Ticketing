@@ -21,7 +21,7 @@ public class Payment extends JFrame implements ActionListener {
 		this.setLayout(null);
 		
 		
-		titleLabel = new JLabel("Complete Your Payment");
+		titleLabel = new JLabel("Complete Your Payment. Total Ammount: "+totalCost());
 		titleLabel.setBounds(110, 20, 500, 50);
 		titleLabel.setFont(new Font("Segoe UI Black",Font.PLAIN,40));
 		this.add(titleLabel);

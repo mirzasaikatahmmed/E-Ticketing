@@ -73,7 +73,7 @@ public class AdminLogin extends JFrame implements ActionListener {
 
 		Loginframe.setLayout(null);
 
-		Loginframe.setTitle("Ticket Management System");
+		Loginframe.setTitle("E-Ticketing");
 		Loginframe.setSize(813, 530);
 
 		loginB.addActionListener(this);
