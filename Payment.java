@@ -10,8 +10,7 @@ public class Payment extends JFrame implements ActionListener {
 	
 		JLabel titleLabel;
 		JTextField nameField,cardField,validField,cvvField;
-		JButton confirmButton,exitButton,backButton;
-		PlaneDashboard totalCost;
+		JButton confirmButton,exitButton;
 	
 	public Payment() {
 		
@@ -22,9 +21,9 @@ public class Payment extends JFrame implements ActionListener {
 		this.setLayout(null);
 		
 		
-		titleLabel = new JLabel("Complete Your Payment Total Ammount: " + totalCost);
-		titleLabel.setBounds(110, 40, 500, 50);
-		titleLabel.setFont(new Font("Segoe UI Black",Font.PLAIN,30));
+		titleLabel = new JLabel("Complete Your Payment. Total Ammount: "+totalCost());
+		titleLabel.setBounds(110, 20, 500, 50);
+		titleLabel.setFont(new Font("Segoe UI Black",Font.PLAIN,40));
 		this.add(titleLabel);
 		
 		
@@ -110,21 +109,11 @@ public class Payment extends JFrame implements ActionListener {
 		exitButton.setForeground(Color.white);
 		exitButton.setBackground(Color.decode("#C00000"));
 		this.add(exitButton);
-
-	
-		backButton = new JButton("<<Back");
-		backButton.setBounds(100, 330, 250, 50);
-		backButton.setFocusable(false);
-		backButton.setFont(new Font("Segoe UI SemiBold",Font.PLAIN,25));
-		backButton.setForeground(Color.white);
-		backButton.setBackground(Color.decode("#2E75B6"));
-        this.add(backButton);
 		
 		
 		
 		confirmButton.addActionListener(this);
 		exitButton.addActionListener(this);
-		backButton.addActionListener(this);
 	}
 	
 	
@@ -139,12 +128,6 @@ public class Payment extends JFrame implements ActionListener {
 		}
 		
 		
-		if (e.getSource() == backButton)
-		{
-			dispose();
-			Login2 Login2 = new Login2();
-			Login2.setVisible(true);
-		}
 		
 		if(e.getSource()==confirmButton) {
 			
@@ -169,10 +152,10 @@ public class Payment extends JFrame implements ActionListener {
 		
 	}
 	
-	public static void main (String [] args) {
-		Payment payment = new Payment();
-		payment.setVisible(true);
-	}
+	// public static void main (String [] args) {
+	// 	Payment payment = new Payment();
+	// 	payment.setVisible(true);
+	// }
 
 	
 }
