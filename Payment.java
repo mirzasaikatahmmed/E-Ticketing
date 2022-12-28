@@ -11,7 +11,7 @@ public class Payment extends JFrame implements ActionListener {
 		JLabel titleLabel;
 		JTextField nameField,cardField,validField,cvvField;
 		JButton confirmButton,exitButton,backButton;
-		PlaneDashboard totalCost;
+		
 	
 	public Payment() {
 		
@@ -20,11 +20,11 @@ public class Payment extends JFrame implements ActionListener {
 		this.setLocationRelativeTo(null);
 		this.setResizable(false);
 		this.setLayout(null);
+	
 		
-		
-		titleLabel = new JLabel("Complete Your Payment Total Ammount: " + totalCost());
-		titleLabel.setBounds(110, 40, 500, 50);
-		titleLabel.setFont(new Font("Segoe UI Black",Font.PLAIN,30));
+		titleLabel = new JLabel("Complete Your Payment Total Ammount: " +TotalCost()  );
+		titleLabel.setBounds(110, 40, 1000, 50);
+		titleLabel.setFont(new Font("Segoe UI Black",Font.PLAIN,22));
 		this.add(titleLabel);
 		
 		
@@ -113,7 +113,7 @@ public class Payment extends JFrame implements ActionListener {
 
 	
 		backButton = new JButton("<<Back");
-		backButton.setBounds(100, 330, 150, 50);
+		backButton.setBounds(0, 0, 150, 50);
 		backButton.setFocusable(false);
 		backButton.setFont(new Font("Segoe UI SemiBold",Font.PLAIN,25));
 		backButton.setForeground(Color.white);
@@ -172,8 +172,6 @@ public class Payment extends JFrame implements ActionListener {
 		Payment payment = new Payment();
 		payment.setVisible(true);
 	}
-
-	
 }
 
 
