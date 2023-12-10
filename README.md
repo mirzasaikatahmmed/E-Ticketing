@@ -51,6 +51,10 @@ Welcome to the E-Ticketing System, a Java (Swing) project designed to facilitate
 - Ratul Hasan Anas
 - Asif Shahriar Adon
 
+## Acknowledgments
+
+We would like to express our gratitude to MD. MAZID-UL-HAQUE SIR, Lecturer, Computer Science, AIUB, for guiding us through the development of this project as part of our course curriculum.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
